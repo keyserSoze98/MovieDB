@@ -1,4 +1,4 @@
-package com.keysersoze.moviedb.data.api
+package com.keysersoze.moviedb.data.remote
 
 import com.keysersoze.moviedb.BuildConfig
 import com.keysersoze.moviedb.data.dto.MovieDetailsDto

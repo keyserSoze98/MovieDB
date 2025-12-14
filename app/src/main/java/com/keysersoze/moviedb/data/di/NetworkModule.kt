@@ -1,6 +1,6 @@
 package com.keysersoze.moviedb.data.di
 
-import com.keysersoze.moviedb.data.api.OMDbApiService
+import com.keysersoze.moviedb.data.remote.OMDbApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

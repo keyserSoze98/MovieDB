@@ -1,4 +1,4 @@
-package com.keysersoze.moviedb.data.room
+package com.keysersoze.moviedb.data.local
 
 import androidx.room.Dao
 import androidx.room.Insert

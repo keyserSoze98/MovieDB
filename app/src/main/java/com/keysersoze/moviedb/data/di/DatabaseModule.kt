@@ -2,8 +2,8 @@ package com.keysersoze.moviedb.data.di
 
 import android.content.Context
 import androidx.room.Room
-import com.keysersoze.moviedb.data.room.FavoriteMovieDao
-import com.keysersoze.moviedb.data.room.MovieDatabase
+import com.keysersoze.moviedb.data.local.FavoriteMovieDao
+import com.keysersoze.moviedb.data.local.MovieDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

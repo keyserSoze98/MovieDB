@@ -1,7 +1,7 @@
 package com.keysersoze.moviedb.data.repository
 
-import com.keysersoze.moviedb.data.room.FavoriteMovieDao
-import com.keysersoze.moviedb.data.room.FavoriteMovieEntity
+import com.keysersoze.moviedb.data.local.FavoriteMovieDao
+import com.keysersoze.moviedb.data.local.FavoriteMovieEntity
 import com.keysersoze.moviedb.domain.model.Movie
 import io.mockk.coVerify
 import io.mockk.every

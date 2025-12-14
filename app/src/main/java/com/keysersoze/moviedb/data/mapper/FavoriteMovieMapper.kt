@@ -1,6 +1,6 @@
 package com.keysersoze.moviedb.data.mapper
 
-import com.keysersoze.moviedb.data.room.FavoriteMovieEntity
+import com.keysersoze.moviedb.data.local.FavoriteMovieEntity
 import com.keysersoze.moviedb.domain.model.Movie
 
 fun FavoriteMovieEntity.toDomain(): Movie {

@@ -7,6 +7,5 @@ class GetMovieDetailsUseCase @Inject constructor(
     private val repository: MovieRepository
 ) {
 
-    suspend operator fun invoke(imdbId: String) =
-        repository.getMovieDetails(imdbId)
+    suspend operator fun invoke(imdbId: String) = repository.getMovieDetails(imdbId)
 }

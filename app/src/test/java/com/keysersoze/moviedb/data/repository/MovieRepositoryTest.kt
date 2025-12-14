@@ -1,6 +1,6 @@
 package com.keysersoze.moviedb.data.repository
 
-import com.keysersoze.moviedb.data.api.OMDbApiService
+import com.keysersoze.moviedb.data.remote.OMDbApiService
 import com.keysersoze.moviedb.data.dto.MovieDetailsDto
 import com.keysersoze.moviedb.data.dto.SearchMovieDto
 import com.keysersoze.moviedb.data.dto.SearchResponseDto
