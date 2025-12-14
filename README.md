@@ -14,7 +14,7 @@ The project follows MVVM architecture, uses Retrofit for networking, Room for lo
 
 A debug APK is available for quick installation and review:
 
-👉 /apk/MovieDB-debug.apk
+👉 https://github.com/keyserSoze98/MovieDB/tree/master/apk
 
 ✨ Features
 
