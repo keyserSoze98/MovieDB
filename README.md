@@ -4,15 +4,11 @@ MovieDB is a modern Android application built with Kotlin and Jetpack Compose th
 
 The project follows MVVM architecture, uses Retrofit for networking, Room for local storage, Hilt for dependency injection, and includes unit tests covering core business logic and data layers.
 
-📱 Screenshots
-🔍 Search Screen
-<img src="screenshots/search.png" width="300"/>
-🎞 Movie Details Screen
-<img src="screenshots/details.png" width="300"/>
-❤️ Favorites Screen
-<img src="screenshots/favorites.png" width="300"/>
+## 📱 Screenshots
 
-Screenshots are available in the /screenshots directory.
+| Search Screen | Movie Details | Favorites |
+|--------------|---------------|-----------|
+| <img src="screenshots/search.png" width="250"/> | <img src="screenshots/details.png" width="250"/> | <img src="screenshots/favorites.png" width="250"/> |
 
 📦 APK
 
