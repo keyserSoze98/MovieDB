@@ -1,4 +1,4 @@
-🎬 MovieDB
+# 🎬 MovieDB
 
 MovieDB is a modern Android application built with Kotlin and Jetpack Compose that allows users to search movies using the OMDb API, view detailed movie information, and manage a favorites list with local persistence.
 
@@ -71,8 +71,10 @@ Concurrency: Kotlin Coroutines
 Testing: JUnit4, MockK, kotlinx-coroutines-test
 
 🚀 Setup Instructions
+
 1️⃣ Clone the repository
-git clone <repository-url>
+
+git clone https://github.com/keyserSoze98/MovieDB
 
 2️⃣ Add OMDb API Key
 
@@ -80,6 +82,7 @@ Create or update local.properties in the root directory:
 
 OMDB_API_KEY=your_api_key_here
 
+Note: local.properties is excluded from version control.
 
 The API key is injected using BuildConfig and is not hardcoded.
 
