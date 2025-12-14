@@ -74,7 +74,7 @@ fun MovieDetailsScreen(
                         ) {
 
                             Text(
-                                text = movie.title,
+                                text = "${movie.title} (${movie.year})",
                                 style = MaterialTheme.typography.headlineLarge,
                                 modifier = Modifier.weight(1f)
                             )
